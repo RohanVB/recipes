@@ -1,3 +1,6 @@
+![Finished Product](https://cloud.githubusercontent.com/assets/15197846/25136010/7aac4786-2471-11e7-9541-9f9c3169b13a.png)
+
+
 #### Ingredients [Serves 1]: 
 
 Boneless chicken (~250g)  
@@ -92,5 +95,5 @@ person, because it's not like you're gonna have anyone over
 
 anyways. D:  
 
-[Finished Product](https://cloud.githubusercontent.com/assets/15197846/25136010/7aac4786-2471-11e7-9541-9f9c3169b13a.png)
+
 
